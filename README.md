@@ -1,6 +1,9 @@
 # Project Docker Todo List
 
-Primeiro projeto do bloco de backend, neste projeto eu aprendi a como utilizar o docker e realiza os desafios propostos pela Trybe, a realização destes desafios esta na pasta docker-commands
+No meu primeiro projeto do bloco de backend, aprendi a utilizar o Docker para criar e gerenciar containers de aplicação. A realização dos desafios propostos pela Trybe, que podem ser encontrados na pasta "docker-commands".
+
+
+
 
 # Os desafios eram
 
